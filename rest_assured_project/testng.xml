@@ -1,7 +1,0 @@
-<suite name="API Test Suite">
-    <test name="Country API Tests">
-        <classes>
-            <class name="tests.GetCountryTest"/>
-        </classes>
-    </test>
-</suite>
