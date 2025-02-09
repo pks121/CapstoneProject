@@ -3,7 +3,7 @@
 <suite name="CapstoneProjectSuite">
     <test name="CapstoneProjectTests">
         <classes>
-            <class name="stepdefinitions.StepDefinition"/>
+            <class name="runners.TestRunner"/>
         </classes>
     </test>
 </suite>
